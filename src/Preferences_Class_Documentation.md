@@ -31,8 +31,7 @@ The `Preferences` class provides a cross-platform, API 2-compliant mechanism to 
 | Dictionary   | `SetDictionary(key, val)`| `GetDictionary(key, default)`| Serialized via JSON |
 
 ### Usage
-Check **PreferencesTest.RunAllPreferences
-Tests**
+Check **PreferencesTest.RunAllPreferencesTests**
 
 ### Notes
 
